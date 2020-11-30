@@ -3,7 +3,7 @@
 Plugin Name: Ban Double Login
 Description: This plugin forbids double login.
 Author: minkapi
-version: 1.1
+version: 1.2
 */
 function BDL_destroy_sessions( $logged_in_cookie, $expire, $expiration, $user_id, $logged_in, $token ) {
 	$allow_capability = array();

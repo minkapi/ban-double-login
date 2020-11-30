@@ -2,8 +2,8 @@
 Contributors: minkapi
 Tags: double-login, member-sites, login
 Requires at least: 4.9
-Tested up to: 5.1.1
-Stable tag: 1.1
+Tested up to: 5.5.3
+Stable tag: 1.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -25,6 +25,8 @@ It is suitable for member sites because it can prevent one account from being us
 
 
 == Changelog ==
+= 1.2 =
+* Support 5.5.3
 = 1.1 =
 * Support 5.1.1
 = 1.0 =
